@@ -65,7 +65,7 @@ A fashion shopping UI project built with Flutter inspired by modern e-commerce a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yousif-Salama67&show_icons=true&theme=tokyonight&hide=issues,contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousif-Salama67&layout=compact&theme=tokyonight&hide=CMake,C++,C)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousif-Salama67&layout=compact&theme=tokyonight&hide=CMake,C++,C,HTML,CSS,Java,Swift,Kotlin)
 
 ---
 
