@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Yousif Salama 👋
 
-<!--
-**Yousif-Salama67/Yousif-Salama67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Flutter Developer 📱
 
-Here are some ideas to get you started:
+Flutter Developer passionate about creating modern, clean, and responsive mobile user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on building beautiful Flutter applications with organized code structure, reusable components, and smooth user experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+
+* Flutter
+* Dart
+* Material Design
+* Responsive UI
+
+### Tools & Workflow
+
+* Git & GitHub
+* Android Studio
+* VS Code
+* Figma
+
+---
+
+## 🚀 Featured Projects
+
+## 🍎 Grabber - Fruits Store UI
+
+A modern fruit store UI project built with Flutter to practice creating clean shopping interfaces.
+
+### Highlights:
+
+* Modern home screen design
+* Promotional banners
+* Product cards
+* Categories section
+* Bottom navigation
+* Reusable custom widgets
+* Organized Flutter project structure
+
+---
+
+## 👕 Runway - Fashion Store UI
+
+A fashion shopping UI project built with Flutter inspired by modern e-commerce applications.
+
+### Highlights:
+
+* Fashion home page
+* Categories browsing
+* Product grid layout
+* Product details UI
+* Filter and sorting interface
+* Product information sections
+* Custom reusable widgets
+* Clean navigation flow
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yousif-Salama67\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousif-Salama67\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+Email:
+[yousifsalama67@gmail.com](mailto:yousifsalama67@gmail.com)
+
+LinkedIn:
+https://www.linkedin.com/in/yousif-salama-21256a320/
+
+---
+
+⭐ Thanks for visiting my profile!
